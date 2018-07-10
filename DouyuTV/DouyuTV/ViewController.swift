@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  DouyuTV
 //
-//  Created by Rbc on 2018/7/10. for test
+//  Created by Rbc on 2018/7/10.
 //  Copyright © 2018年 OrgName. All rights reserved.
 //
 

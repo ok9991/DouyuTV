@@ -54,14 +54,78 @@
 		420C483720F4879C00DD111E /* DouyuTV */ = {
 			isa = PBXGroup;
 			children = (
+				BFD519C720F503AF001E71B5 /* Classes */,
 				420C483820F4879C00DD111E /* AppDelegate.swift */,
 				420C483A20F4879C00DD111E /* ViewController.swift */,
-				420C483C20F4879C00DD111E /* Main.storyboard */,
 				420C483F20F4879D00DD111E /* Assets.xcassets */,
 				420C484120F4879D00DD111E /* LaunchScreen.storyboard */,
 				420C484420F4879D00DD111E /* Info.plist */,
 			);
 			path = DouyuTV;
+			sourceTree = "<group>";
+		};
+		BFD519C720F503AF001E71B5 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				BFD519CE20F503AF001E71B5 /* Main */,
+				BFD519C820F503AF001E71B5 /* Home */,
+				BFD519C920F503AF001E71B5 /* Tools */,
+				BFD519CA20F503AF001E71B5 /* Room */,
+				BFD519CB20F503AF001E71B5 /* Follow */,
+				BFD519CC20F503AF001E71B5 /* Profile */,
+				BFD519CD20F503AF001E71B5 /* Live */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		BFD519C820F503AF001E71B5 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		BFD519C920F503AF001E71B5 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		BFD519CA20F503AF001E71B5 /* Room */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Room;
+			sourceTree = "<group>";
+		};
+		BFD519CB20F503AF001E71B5 /* Follow */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Follow;
+			sourceTree = "<group>";
+		};
+		BFD519CC20F503AF001E71B5 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		BFD519CD20F503AF001E71B5 /* Live */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Live;
+			sourceTree = "<group>";
+		};
+		BFD519CE20F503AF001E71B5 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				420C483C20F4879C00DD111E /* Main.storyboard */,
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

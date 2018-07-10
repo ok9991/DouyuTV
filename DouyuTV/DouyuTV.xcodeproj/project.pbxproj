@@ -11,7 +11,6 @@
 		420C483B20F4879C00DD111E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420C483A20F4879C00DD111E /* ViewController.swift */; };
 		420C483E20F4879C00DD111E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 420C483C20F4879C00DD111E /* Main.storyboard */; };
 		420C484020F4879D00DD111E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 420C483F20F4879D00DD111E /* Assets.xcassets */; };
-		420C484320F4879D00DD111E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 420C484120F4879D00DD111E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +19,6 @@
 		420C483A20F4879C00DD111E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		420C483D20F4879C00DD111E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		420C483F20F4879D00DD111E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		420C484220F4879D00DD111E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		420C484420F4879D00DD111E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,7 +56,6 @@
 				420C483820F4879C00DD111E /* AppDelegate.swift */,
 				420C483A20F4879C00DD111E /* ViewController.swift */,
 				420C483F20F4879D00DD111E /* Assets.xcassets */,
-				420C484120F4879D00DD111E /* LaunchScreen.storyboard */,
 				420C484420F4879D00DD111E /* Info.plist */,
 			);
 			path = DouyuTV;
@@ -186,7 +183,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				420C484320F4879D00DD111E /* LaunchScreen.storyboard in Resources */,
 				420C484020F4879D00DD111E /* Assets.xcassets in Resources */,
 				420C483E20F4879C00DD111E /* Main.storyboard in Resources */,
 			);
@@ -213,14 +209,6 @@
 				420C483D20F4879C00DD111E /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		420C484120F4879D00DD111E /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				420C484220F4879D00DD111E /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
